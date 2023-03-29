@@ -1,0 +1,48 @@
+{
+	"ads": {
+		"settings": {
+			"app_id_onesignal": "off",
+			"interval_interstitial": 2
+		},
+
+		"ad_network": [
+			{
+				"name": "startapp",
+				"value": 0,
+
+				"appId_appKey_publisherId_gameId": "-",
+				"banner": "-",
+				"mrec": "-",
+				"inter": "-",
+				"native_ad": "-",
+				"open_ad": "-",
+				"splash_ad": true
+			}
+		]
+	},
+
+	"app_settings": {
+		"enable_interstitialAd_when_forward_backward_music" : false,
+		"enable_category": true,
+		"enable_offline_content": true,
+		"enable_online_content": false
+	},
+
+	"Categories": [
+		{
+			"name_category": "DJ Kusuka sama dia",
+			"image": "https://oke.com/tray.jpg"
+		}
+	],
+
+	"Data": [
+		{
+			"name_category": "DJ Kusuka sama dia",
+			"title": "DJ kusuka sama dia 1",
+			"image": "https://oke.com/tray.jpg",
+			"link_mp3": "https://oke.com/DJ_kusuka_sama_dia_1.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
