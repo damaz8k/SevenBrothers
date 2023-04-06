@@ -7,8 +7,20 @@
 
 		"ad_network": [
 			{
+				"name": "admob",
+				"value": 100,
+
+				"appId_appKey_publisherId_gameId": "-",
+				"banner": "ca-app-pub-1804627104087445/1067758178",
+				"mrec": "ca-app-pub-1804627104087445/1067758178",
+				"inter": "ca-app-pub-1804627104087445/1452515953",
+				"native_ad": "off",
+				"open_ad": "ca-app-pub-1804627104087445/9195274602",
+				"splash_ad": true
+			},
+			{
 				"name": "max",
-				"value": 10,
+				"value": 1,
 
 				"appId_appKey_publisherId_gameId": "-",
 				"banner": "582d91b23ce9d4cf",
