@@ -2,20 +2,20 @@
 	"ads": {
 		"settings": {
 			"app_id_onesignal": "off",
-			"interval_interstitial": 2
+			"interval_interstitial": 3
 		},
 
 		"ad_network": [
 			{
-				"name": "startapp",
-				"value": 0,
+				"name": "max",
+				"value": 10,
 
 				"appId_appKey_publisherId_gameId": "-",
-				"banner": "-",
-				"mrec": "-",
-				"inter": "-",
-				"native_ad": "-",
-				"open_ad": "-",
+				"banner": "582d91b23ce9d4cf",
+				"mrec": "97d532f45ce6578b",
+				"inter": "5af568192c6c9677",
+				"native_ad": "off",
+				"open_ad": "872d803a43db73fc",
 				"splash_ad": true
 			}
 		]
