@@ -26,5 +26,985 @@
       "status_app": "0",
       "link_redirect": "https://"
     }
+  ],
+    "Categories": [
+    {
+      "id": 1,
+      "name_category": "Basuri V4 Konslet",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Basuri V4 Nada",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Basuri V1",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Basuri V2",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Basuri V3",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Basuri V5 Alzifa",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Basuri V5 Spesial",
+      "image": "file:///android_asset/Telolet_Spesial/tray.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Basuri V5 Terbaru",
+      "image": "file:///android_asset/Telolet_Terbaru/tray.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Basuri V4 Konslet",
+      "title": "Basuri V4 Konslet V4 01",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Konslet/Basuri_Konslet_V4_01.mp3",
+      "duration": "23",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 2,
+      "name_category": "Basuri V4 Konslet",
+      "title": "Basuri V4 Konslet V4 02",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Konslet/Basuri_Konslet_V4_02.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 3,
+      "name_category": "Basuri V4 Konslet",
+      "title": "Basuri V4 Konslet V4 03",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Konslet/Basuri_Konslet_V4_03.mp3",
+      "duration": "35",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 4,
+      "name_category": "Basuri V4 Konslet",
+      "title": "Basuri V4 Konslet V4 04",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Konslet/Basuri_Konslet_V4_04.mp3",
+      "duration": "16",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 5,
+      "name_category": "Basuri V4 Konslet",
+      "title": "Basuri V4 Konslet V4 05",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Konslet/Basuri_Konslet_V4_05.mp3",
+      "duration": "30",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 6,
+      "name_category": "Basuri V4 Konslet",
+      "title": "Basuri V4 Konslet V4 06",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Konslet/Basuri_Konslet_V4_06.mp3",
+      "duration": "14",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 7,
+      "name_category": "Basuri V4 Konslet",
+      "title": "Basuri V4 Konslet V4 07",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Konslet/Basuri_Konslet_V4_07.mp3",
+      "duration": "16",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 8,
+      "name_category": "Basuri V4 Konslet",
+      "title": "Basuri V4 Konslet V4 08",
+      "image": "file:///android_asset/Basuri_Konslet/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Konslet/Basuri_Konslet_V4_08.mp3",
+      "duration": "43",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 9,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Abang Tukang Baso",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Abang_Tukang_Baso.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 10,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Baby Shark",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Baby_Shark.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 11,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Coffin Dance",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Coffin_Dance.mp3",
+      "duration": "24",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 12,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Hey Tayo",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Hey_Tayo.mp3",
+      "duration": "15",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 13,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Ojo Di Bandingke",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Ojo_Di_Bandingke.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 14,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Squid Game",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Squid_Game.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 15,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Stroberi Mangga Nanas",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Stroberi_Mangga_Nanas.mp3",
+      "duration": "13",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 16,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Susu Murni",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Susu_Murni.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 17,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Susunya Mamah",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Susunya_Mamah.mp3",
+      "duration": "19",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 18,
+      "name_category": "Basuri V4 Nada",
+      "title": "Basuri V4 Nada Tepuk Tangan",
+      "image": "file:///android_asset/Basuri_Nada/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_Nada/Basuri_V4_Nada_Tepuk_Tangan.mp3",
+      "duration": "24",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 19,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 01",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_01.mp3",
+      "duration": "21",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 20,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 02",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_02.mp3",
+      "duration": "7",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 21,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 03",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_03.mp3",
+      "duration": "7",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 22,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 04",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_04.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 23,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 05",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_05.mp3",
+      "duration": "12",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 24,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 06",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_06.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 25,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 07",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_07.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 26,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 08",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_08.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 27,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 09",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_09.mp3",
+      "duration": "14",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 28,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 10",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_10.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 29,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 11",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_11.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 30,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 12",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_12.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 31,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 13",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_13.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 32,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 14",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_14.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 33,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 15",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_15.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 34,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 16",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_16.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 35,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 17",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_17.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 36,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 18",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_18.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 37,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 19",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_19.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 38,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 20",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_20.mp3",
+      "duration": "12",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 39,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 21",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_21.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 40,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 22",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_22.mp3",
+      "duration": "7",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 41,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 23",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_23.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 42,
+      "name_category": "Basuri V1",
+      "title": "Basuri V1 24",
+      "image": "file:///android_asset/Basuri_V1/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V1/Basuri_V1_24.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 43,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 01",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_01.mp3",
+      "duration": "19",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 44,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 02",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_02.mp3",
+      "duration": "14",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 45,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 03",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_03.mp3",
+      "duration": "11",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 46,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 04",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_04.mp3",
+      "duration": "18",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 47,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 05",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_05.mp3",
+      "duration": "23",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 48,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 06",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_06.mp3",
+      "duration": "11",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 49,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 07",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_07.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 50,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 08",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_08.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 51,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 09",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_09.mp3",
+      "duration": "14",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 52,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 10",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_10.mp3",
+      "duration": "11",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 53,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 11",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_11.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 54,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 12",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_12.mp3",
+      "duration": "27",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 55,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 13",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_13.mp3",
+      "duration": "25",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 56,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 14",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_14.mp3",
+      "duration": "12",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 57,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 15",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_15.mp3",
+      "duration": "11",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 58,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 16",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_16.mp3",
+      "duration": "17",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 59,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 17",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_17.mp3",
+      "duration": "24",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 60,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 18",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_18.mp3",
+      "duration": "8",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 61,
+      "name_category": "Basuri V2",
+      "title": "Basuri V2 19",
+      "image": "file:///android_asset/Basuri_V2/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V2/Basuri_V2_19.mp3",
+      "duration": "25",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 62,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 01",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_01.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 63,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 02",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_02.mp3",
+      "duration": "8",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 64,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 03",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_03.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 65,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 04",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_04.mp3",
+      "duration": "4",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 66,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 05",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_05.mp3",
+      "duration": "23",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 67,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 06",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_06.mp3",
+      "duration": "17",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 68,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 07",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_07.mp3",
+      "duration": "17",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 69,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 08",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_08.mp3",
+      "duration": "29",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 70,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 09",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_09.mp3",
+      "duration": "20",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 71,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 10",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_10.mp3",
+      "duration": "14",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 72,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 11",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_11.mp3",
+      "duration": "25",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 73,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 12",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_12.mp3",
+      "duration": "6",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 74,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 13",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_13.mp3",
+      "duration": "16",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 75,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 14",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_14.mp3",
+      "duration": "26",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 76,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 15",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_15.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 77,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 16",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_16.mp3",
+      "duration": "30",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 78,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 17",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_17.mp3",
+      "duration": "26",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 79,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 18",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_18.mp3",
+      "duration": "32",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 80,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 19",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_19.mp3",
+      "duration": "6",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 81,
+      "name_category": "Basuri V3",
+      "title": "Basuri V3 20",
+      "image": "file:///android_asset/Basuri_V3/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Basuri_V3/Basuri_V3_20.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 82,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Bojo Ketikung",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Bojo_Ketikung.mp3",
+      "duration": "8",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 83,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Cari Jodoh",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Cari_Jodoh.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 84,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Kanggo Riko",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Kanggo_Riko.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 85,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Kucing Garong X Buka Sitik Jos",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Kucing_Garong_X_Buka_Sitik_Jos.mp3",
+      "duration": "12",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 86,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Mengular",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Mengular.mp3",
+      "duration": "14",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 87,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Nada",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Nada.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 88,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Ost Adit Sopo Jarwo",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Ost_Adit_Sopo_Jarwo.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 89,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Pakistan",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Pakistan.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 90,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Tokecang X Ondel Ondel",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Tokecang_X_Ondel_Ondel.mp3",
+      "duration": "17",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 91,
+      "name_category": "Basuri V5 Alzifa",
+      "title": "Alfiza Tumhiho",
+      "image": "file:///android_asset/Telolet_Alzifa/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Alzifa/Alfiza_Tumhiho.mp3",
+      "duration": "12",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 92,
+      "name_category": "Basuri V5 Spesial",
+      "title": "Spesial Hut Ri 17 Agustus",
+      "image": "file:///android_asset/Telolet_Spesial/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Spesial/Spesial_Hut_Ri_17_Agustus.mp3",
+      "duration": "22",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 93,
+      "name_category": "Basuri V5 Spesial",
+      "title": "Spesial Kuda Lumping X Basuri",
+      "image": "file:///android_asset/Telolet_Spesial/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Spesial/Spesial_Kuda_Lumping_X_Basuri.mp3",
+      "duration": "34",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 94,
+      "name_category": "Basuri V5 Spesial",
+      "title": "Spesial Nada Anak",
+      "image": "file:///android_asset/Telolet_Spesial/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Spesial/Spesial_Nada_Anak.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 95,
+      "name_category": "Basuri V5 Spesial",
+      "title": "Spesial Ondel X Siapa Yg Punya",
+      "image": "file:///android_asset/Telolet_Spesial/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Spesial/Spesial_Ondel_X_Siapa_Yg_Punya.mp3",
+      "duration": "22",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 96,
+      "name_category": "Basuri V5 Spesial",
+      "title": "Spesial Panjang",
+      "image": "file:///android_asset/Telolet_Spesial/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Spesial/Spesial_Panjang.mp3",
+      "duration": "16",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 97,
+      "name_category": "Basuri V5 Spesial",
+      "title": "Spesial Tayo",
+      "image": "file:///android_asset/Telolet_Spesial/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Spesial/Spesial_Tayo.mp3",
+      "duration": "9",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 98,
+      "name_category": "Basuri V5 Terbaru",
+      "title": "Basuri Terbaru JP 01",
+      "image": "file:///android_asset/Telolet_Terbaru/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Terbaru/Basuri_Terbaru_JP_01.mp3",
+      "duration": "7",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 99,
+      "name_category": "Basuri V5 Terbaru",
+      "title": "Basuri Terbaru JP 02",
+      "image": "file:///android_asset/Telolet_Terbaru/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Terbaru/Basuri_Terbaru_JP_02.mp3",
+      "duration": "12",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 100,
+      "name_category": "Basuri V5 Terbaru",
+      "title": "Basuri Terbaru JP 03",
+      "image": "file:///android_asset/Telolet_Terbaru/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Terbaru/Basuri_Terbaru_JP_03.mp3",
+      "duration": "7",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 101,
+      "name_category": "Basuri V5 Terbaru",
+      "title": "Basuri Terbaru JP 04",
+      "image": "file:///android_asset/Telolet_Terbaru/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Terbaru/Basuri_Terbaru_JP_04.mp3",
+      "duration": "7",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 102,
+      "name_category": "Basuri V5 Terbaru",
+      "title": "Basuri Terbaru JP 05",
+      "image": "file:///android_asset/Telolet_Terbaru/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Terbaru/Basuri_Terbaru_JP_05.mp3",
+      "duration": "5",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 103,
+      "name_category": "Basuri V5 Terbaru",
+      "title": "Basuri Terbaru JP 06",
+      "image": "file:///android_asset/Telolet_Terbaru/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Terbaru/Basuri_Terbaru_JP_06.mp3",
+      "duration": "3",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 104,
+      "name_category": "Basuri V5 Terbaru",
+      "title": "Basuri Terbaru JP 07",
+      "image": "file:///android_asset/Telolet_Terbaru/tray.jpg",
+      "link_mp3": "https://thirteenvideo.com/BussidMod/AudioBasuriV2/Telolet_Terbaru/Basuri_Terbaru_JP_07.mp3",
+      "duration": "10",
+      "lyrics": "Tidak Ada Lirik"
+    }
   ]
 }
